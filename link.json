@@ -1,4 +1,6 @@
 {
   "enabled": true,
-  "redirects": {}
+  "redirects": {
+    "237-2": "0932780526.com.tw"
+  }
 }
